@@ -7,7 +7,7 @@ A comprehensive security project demonstrating the lifecycle of a social enginee
 ---
 
 ## 📄 Project Report
-**[View Full Project Report (PDF)](./Phishing%20Attack%20Simulation.pdf)**
+**[View Full Project Report (PDF)](./phishing-attack-simulation-and-defense/Phishing%20Attack%20Simulation%20and%20Defense.pdf)**
 
 *Click the link above to view the complete documentation, including execution steps, screenshot evidence, and detailed analysis.*
 
